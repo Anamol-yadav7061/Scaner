@@ -1,0 +1,6 @@
+{
+  "name": "Anamol QR Code Scanner",
+  "description": "Hacker-grade QR & barcode scanner, screen circle-to-search analyzer, custom generator, and deep security inspector.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

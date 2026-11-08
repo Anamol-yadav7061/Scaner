@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">انمول کیو آر</string>
+    <string name="nav_scanner">اسکین</string>
+    <string name="nav_screen_scan">سرکل سرچ</string>
+    <string name="nav_generator">کیو آر بنائیں</string>
+    <string name="nav_history">تاریخچہ</string>
+    <string name="nav_settings">ترتیبات</string>
+
+    <string name="scan_title">آپٹیکل ڈیکوڈر</string>
+    <string name="scan_subtitle">کیو آر یا بارکوڈ کو اسکینر کے دائرے میں رکھیں</string>
+    <string name="torch_on">فلیش لائٹ آن</string>
+    <string name="torch_off">فلیش لائٹ آف</string>
+    <string name="import_gallery">گیلری سے تصویر منتخب کریں</string>
+    <string name="camera_permission_required">اسکین کرنے کے لیے کیمرے کی اجازت درکار ہے۔</string>
+    <string name="grant_camera">کیمرے کی اجازت دیں</string>
+    <string name="scan_success">ڈیٹا کامیابی سے حاصل ہوا</string>
+    <string name="screen_assistant_mode">سرکل ٹو سرچ اسکرین اسکینر</string>
+    <string name="screen_assistant_desc">اسکرین پر موجود کیو آر کوڈ کے گرد دائرہ بنا کر اسکین کریں</string>
+
+    <string name="inspector_title">سیکیورٹی انسپکٹر</string>
+    <string name="raw_payload">خام ڈیٹا (Raw Payload)</string>
+    <string name="hex_dump">ہیکسا ڈیسیمل ڈمپ</string>
+    <string name="charset_detected">انکوڈنگ</string>
+    <string name="security_rating">سیکیورٹی تجزیہ</string>
+    <string name="security_safe">محفوظ / انکرپٹڈ</string>
+    <string name="security_warning">غیر محفوظ / HTTP</string>
+    <string name="security_danger">زیادہ خطرہ / مشکوک</string>
+    <string name="action_open">اوپن کریں</string>
+    <string name="action_copy">کاپی کریں</string>
+    <string name="action_share">شیئر کریں</string>
+    <string name="action_connect_wifi">وائی فائی جوڑیں</string>
+    <string name="action_pay_upi">یو پی آئی ادائیگی کریں</string>
+    <string name="action_save_contact">رابطہ محفوظ کریں</string>
+    <string name="wifi_ssid">نیٹ ورک کا نام (SSID)</string>
+    <string name="wifi_password">پاس ورڈ</string>
+    <string name="wifi_encryption">سیکیورٹی</string>
+    <string name="upi_payee">وصول کنندہ</string>
+    <string name="upi_id">یو پی آئی آئی ڈی</string>
+    <string name="upi_amount">رقم</string>
+
+    <string name="gen_title">کیو آر میٹرکس جنریٹر</string>
+    <string name="gen_type_text">متن</string>
+    <string name="gen_type_url">ویب سائٹ URL</string>
+    <string name="gen_type_wifi">وائی فائی</string>
+    <string name="gen_type_upi">یو پی آئی</string>
+    <string name="gen_type_contact">رابطہ کارڈ</string>
+    <string name="error_correction">غلطی کی اصلاح (ECC)</string>
+    <string name="color_foreground">نیون پیش منظر رنگ</string>
+    <string name="color_background">پس منظر کا رنگ</string>
+    <string name="generate_btn">کیو آر تیار کریں</string>
+    <string name="export_png">PNG ایکسپورٹ کریں</string>
+    <string name="share_qr">کیو آر شیئر کریں</string>
+
+    <string name="history_title">محفوظ لاگز</string>
+    <string name="history_empty">ابھی تک کوئی لاگ موجود نہیں</string>
+    <string name="search_placeholder">تلاش کریں (URL، وائی فائی، متن)...</string>
+    <string name="export_json">JSON برآمد کریں</string>
+    <string name="export_csv">CSV برآمد کریں</string>
+    <string name="clear_all">تمام لاگز حذف کریں</string>
+    <string name="bookmarked_only">پسندیدہ</string>
+
+    <string name="settings_title">کنٹرول ہب</string>
+    <string name="section_general">عمومی</string>
+    <string name="language">زبان (Language)</string>
+    <string name="section_haptics">تھرتھراہٹ اور آواز</string>
+    <string name="haptic_profile">وائبریشن شدت</string>
+    <string name="audio_chirp">اسکین بیپ آواز</string>
+    <string name="section_assistant">اسسٹنٹ اور اوورلے</string>
+    <string name="set_default_assistant">ڈیفالٹ ڈیجیٹل اسسٹنٹ مقرر کریں</string>
+    <string name="floating_overlay_switch">فلوٹنگ اسکرین اسکینر بٹن</string>
+    <string name="circle_to_search_hint">ہوم بٹن دبائیں یا فلوٹنگ بیج سے اسکرین اسکین کریں</string>
+    <string name="section_theme">سائبر تھیم</string>
+    <string name="theme_matrix_green">میٹرکس گرین</string>
+    <string name="theme_neon_cyan">سائبر سیان</string>
+    <string name="theme_laser_purple">لیزر وائلٹ</string>
+    <string name="theme_solar_amber">سولر امبر</string>
+    <string name="about_app">انمول کیو آر کوڈ اسکینر - سیکیورٹی ٹولنگ ایڈیشن</string>
+</resources>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">अनमोल क्यूआर</string>
+    <string name="nav_scanner">स्कैन</string>
+    <string name="nav_screen_scan">सर्कल सर्च</string>
+    <string name="nav_generator">बनाएं</string>
+    <string name="nav_history">इतिहास</string>
+    <string name="nav_settings">सेटिंग्स</string>
+
+    <string name="scan_title">ऑप्टिकल डिकोडर</string>
+    <string name="scan_subtitle">क्यूआर या बारकोड को साइबर रेटिकल में रखें</string>
+    <string name="torch_on">टॉर्च चालू</string>
+    <string name="torch_off">टॉर्च बंद</string>
+    <string name="import_gallery">गैलरी से चुनें</string>
+    <string name="camera_permission_required">स्कैन करने के लिए कैमरा अनुमति आवश्यक है।</string>
+    <string name="grant_camera">कैमरा अनुमति दें</string>
+    <string name="scan_success">डेटा प्राप्त हुआ</string>
+    <string name="screen_assistant_mode">सर्कल-टू-सर्च स्क्रीन स्कैनर</string>
+    <string name="screen_assistant_desc">स्क्रीन पर किसी भी क्यूआर पर गोला बनाकर स्कैन करें</string>
+
+    <string name="inspector_title">सुरक्षा विश्लेषक</string>
+    <string name="raw_payload">कच्चा डेटा (Raw Payload)</string>
+    <string name="hex_dump">हेक्साडेसिमल डंप</string>
+    <string name="charset_detected">एन्कोडिंग</string>
+    <string name="security_rating">सुरक्षा विश्लेषण</string>
+    <string name="security_safe">सुरक्षित / एन्क्रिप्टेड</string>
+    <string name="security_warning">असुरक्षित / HTTP</string>
+    <string name="security_danger">उच्च जोखिम / संदिग्ध</string>
+    <string name="action_open">खोलें</string>
+    <string name="action_copy">कॉपी करें</string>
+    <string name="action_share">शेयर करें</string>
+    <string name="action_connect_wifi">वाईफाई कनेक्ट करें</string>
+    <string name="action_pay_upi">यूपीआई से भुगतान करें</string>
+    <string name="action_save_contact">संपर्क सहेजें</string>
+    <string name="wifi_ssid">नेटवर्क नाम (SSID)</string>
+    <string name="wifi_password">पासवर्ड</string>
+    <string name="wifi_encryption">सुरक्षा प्रकार</string>
+    <string name="upi_payee">प्राप्तकर्ता</string>
+    <string name="upi_id">यूपीआई आईडी</string>
+    <string name="upi_amount">राशि</string>
+
+    <string name="gen_title">मैट्रिक्स जनरेटर</string>
+    <string name="gen_type_text">टेक्स्ट</string>
+    <string name="gen_type_url">वेबसाइट URL</string>
+    <string name="gen_type_wifi">वाईफाई</string>
+    <string name="gen_type_upi">यूपीआई</string>
+    <string name="gen_type_contact">संपर्क (vCard)</string>
+    <string name="error_correction">त्रुटि सुधार (ECC)</string>
+    <string name="color_foreground">नियॉन रंग</string>
+    <string name="color_background">पृष्ठभूमि रंग</string>
+    <string name="generate_btn">क्यूआर बनाएं</string>
+    <string name="export_png">PNG निर्यात करें</string>
+    <string name="share_qr">क्यूआर शेयर करें</string>
+
+    <string name="history_title">एन्क्रिप्टेड लॉग</string>
+    <string name="history_empty">कोई स्कैन रिकॉर्ड नहीं मिला</string>
+    <string name="search_placeholder">सर्च करें (URL, वाईफाई, टेक्स्ट)...</string>
+    <string name="export_json">JSON निर्यात</string>
+    <string name="export_csv">CSV निर्यात</string>
+    <string name="clear_all">सभी लॉग हटाएं</string>
+    <string name="bookmarked_only">पसंदीदा</string>
+
+    <string name="settings_title">नियंत्रण केंद्र</string>
+    <string name="section_general">सामान्य</string>
+    <string name="language">भाषा (Language)</string>
+    <string name="section_haptics">हैप्टिक्स और ध्वनि</string>
+    <string name="haptic_profile">वाइब्रेशन तीव्रता</string>
+    <string name="audio_chirp">स्कैन बीप ध्वनि</string>
+    <string name="section_assistant">असिस्टेंट एवं फ्लोटिंग ओवरले</string>
+    <string name="set_default_assistant">डिफ़ॉल्ट डिजिटल असिस्टेंट चुनें</string>
+    <string name="floating_overlay_switch">फ्लोटिंग स्क्रीन स्कैनर बटन</string>
+    <string name="circle_to_search_hint">होम बटन दबाकर या फ्लोटिंग बटन से स्क्रीन स्कैन करें</string>
+    <string name="section_theme">साइबर थीम</string>
+    <string name="theme_matrix_green">मैट्रिक्स ग्रीन</string>
+    <string name="theme_neon_cyan">साइबर सियान</string>
+    <string name="theme_laser_purple">लेजर वॉयलेट</string>
+    <string name="theme_solar_amber">सोलर एम्बर</string>
+    <string name="about_app">अनमोल क्यूआर कोड स्कैनर - सुरक्षा टूल संस्करण</string>
+</resources>

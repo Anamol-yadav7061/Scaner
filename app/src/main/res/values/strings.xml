@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Anamol QR</string>
+    <string name="nav_scanner">Scan</string>
+    <string name="nav_screen_scan">Circle Search</string>
+    <string name="nav_generator">Generate</string>
+    <string name="nav_history">History</string>
+    <string name="nav_settings">Settings</string>
+
+    <string name="scan_title">OPTICAL DECODER</string>
+    <string name="scan_subtitle">Align QR or Barcode in cyber reticle</string>
+    <string name="torch_on">Flashlight ON</string>
+    <string name="torch_off">Flashlight OFF</string>
+    <string name="import_gallery">Import Image</string>
+    <string name="camera_permission_required">Camera access is required for real-time optical scanning.</string>
+    <string name="grant_camera">Authorize Camera</string>
+    <string name="scan_success">PAYLOAD ACQUIRED</string>
+    <string name="screen_assistant_mode">Circle-to-Search Screen Scanner</string>
+    <string name="screen_assistant_desc">Draw a circle or box over any QR code on screen to decode</string>
+
+    <string name="inspector_title">SECURITY INSPECTOR</string>
+    <string name="raw_payload">RAW PAYLOAD</string>
+    <string name="hex_dump">HEXADECIMAL DUMP</string>
+    <string name="charset_detected">ENCODING</string>
+    <string name="security_rating">THREAT ANALYSIS</string>
+    <string name="security_safe">SECURE / ENCRYPTED</string>
+    <string name="security_warning">UNENCRYPTED / HTTP</string>
+    <string name="security_danger">HIGH RISK / SUSPICIOUS</string>
+    <string name="action_open">OPEN TARGET</string>
+    <string name="action_copy">COPY PAYLOAD</string>
+    <string name="action_share">SHARE DATA</string>
+    <string name="action_connect_wifi">CONNECT WIFI</string>
+    <string name="action_pay_upi">PAY VIA UPI</string>
+    <string name="action_save_contact">ADD CONTACT</string>
+    <string name="wifi_ssid">Network SSID</string>
+    <string name="wifi_password">Password</string>
+    <string name="wifi_encryption">Security</string>
+    <string name="upi_payee">Payee</string>
+    <string name="upi_id">VPA / UPI ID</string>
+    <string name="upi_amount">Amount</string>
+
+    <string name="gen_title">MATRIX SYNTHESIZER</string>
+    <string name="gen_type_text">Text</string>
+    <string name="gen_type_url">URL</string>
+    <string name="gen_type_wifi">WiFi</string>
+    <string name="gen_type_upi">UPI</string>
+    <string name="gen_type_contact">Contact</string>
+    <string name="error_correction">Error Correction</string>
+    <string name="color_foreground">Neon Foreground</string>
+    <string name="color_background">Background</string>
+    <string name="generate_btn">SYNTHESIZE QR</string>
+    <string name="export_png">EXPORT PNG</string>
+    <string name="share_qr">SHARE QR</string>
+
+    <string name="history_title">ENCRYPTED LOGS</string>
+    <string name="history_empty">No scans recorded yet</string>
+    <string name="search_placeholder">Search payloads, URLs, WiFi...</string>
+    <string name="export_json">Export JSON</string>
+    <string name="export_csv">Export CSV</string>
+    <string name="clear_all">Purge Database</string>
+    <string name="bookmarked_only">Favorites</string>
+
+    <string name="settings_title">CONTROL HUB</string>
+    <string name="section_general">GENERAL</string>
+    <string name="language">Language / भाषा / زبان</string>
+    <string name="section_haptics">HAPTICS &amp; AUDIO</string>
+    <string name="haptic_profile">Haptic Vibration</string>
+    <string name="audio_chirp">Cyber Chirp Sound</string>
+    <string name="section_assistant">ASSISTANT &amp; OVERLAY</string>
+    <string name="set_default_assistant">Default Digital Assistant</string>
+    <string name="floating_overlay_switch">Floating Screen Scanner Badge</string>
+    <string name="circle_to_search_hint">Trigger screen scanner by long-pressing home or tapping overlay</string>
+    <string name="section_theme">CYBER THEME PALETTE</string>
+    <string name="theme_matrix_green">Matrix Green</string>
+    <string name="theme_neon_cyan">Cyber Cyan</string>
+    <string name="theme_laser_purple">Laser Violet</string>
+    <string name="theme_solar_amber">Solar Amber</string>
+    <string name="about_app">Anamol QR Code Scanner - Security Tooling Edition</string>
+</resources>
